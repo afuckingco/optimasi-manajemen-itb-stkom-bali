@@ -72,7 +72,7 @@ optimasi-manajemen-itb-stkom-bali/
 
 ### 1. Clone repositori
 ```bash
-git clone https://github.com/afiqandico13/optimasi-manajemen-itb-stkom-bali.git
+git clone https://github.com/afuckingco/optimasi-manajemen-itb-stkom-bali.git
 cd optimasi-manajemen-itb-stkom-bali
 ```
 
@@ -183,10 +183,10 @@ Gambar-gambar berikut dapat Anda hasilkan dengan menjalankan `scripts/visualize.
 
 ## 🙋‍♂️ Hubungi Saya
 
-- **Email**: afiqandico13@gmail.com  
-- **LinkedIn**: [linkedin.com/in/afiqandico13](https://www.linkedin.com/in/afiqandico13)  
-- **GitHub**: [github.com/afiqandico13](https://github.com/afiqandico13)  
-- **Portofolio**: [https://afiqandico13.github.io](https://afiqandico13.github.io) (opsional)
+- **Email**: afuckingco@gmail.com  
+- **LinkedIn**: [linkedin.com/in/afuckingco](https://www.linkedin.com/in/afuckingco)  
+- **GitHub**: [github.com/afuckingco](https://github.com/afuckingco)  
+- **Portofolio**: [https://afuckingco.github.io](https://afuckingco.github.io) (opsional)
 
 ---
 

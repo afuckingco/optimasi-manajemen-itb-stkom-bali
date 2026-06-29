@@ -2,14 +2,14 @@
 *Portofolio Proyek Akhir S1 Sistem Informasi* 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Afiq%20Andico-blue)](https://www.linkedin.com/in/afiqandico13) 
-[![GitHub Stars](https://img.shields.io/github/stars/afiqandico13/optimasi-manajemen-itb-stkom-bali?style=social)](https://github.com/afiqandico13/optimasi-manajemen-itb-stkom-bali/stargazers) 
-[![GitHub Forks](https://img.shields.io/github/forks/afiqandico13/optimasi-manajemen-itb-stkom-bali?style=social)](https://github.com/afiqandico13/optimasi-manajemen-itb-stkom-bali/network/members) 
-[![GitHub Issues](https://img.shields.io/github/issues/afiqandico13/optimasi-manajemen-itb-stkom-bali)](https://github.com/afiqandico13/optimasi-manajemen-itb-stkom-bali/issues) 
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/afiqandico13/optimasi-manajemen-itb-stkom-bali)](https://github.com/afiqandico13/optimasi-manajemen-itb-stkom-bali/commits/main) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Afiq%20Andico-blue)](https://www.linkedin.com/in/afuckingco) 
+[![GitHub Stars](https://img.shields.io/github/afuckingco/optimasi-manajemen-itb-stkom-bali?style=social)](https://github.com/afuckingco/optimasi-manajemen-itb-stkom-bali/stargazers) 
+[![GitHub Forks](https://img.shields.io/github/afuckingco/optimasi-manajemen-itb-stkom-bali?style=social)](https://github.com/afuckingco/optimasi-manajemen-itb-stkom-bali/network/members) 
+[![GitHub Issues](https://img.shields.io/github/afuckingco/optimasi-manajemen-itb-stkom-bali)](https://github.com/afuckingco/optimasi-manajemen-itb-stkom-bali/issues) 
+[![GitHub Last Commit](https://img.shields.io/github/afuckingco/optimasi-manajemen-itb-stkom-bali)](https://github.com/afuckingco/optimasi-manajemen-itb-stkom-bali/commits/main) 
 [![Python Version](https://img.shields.io/badge/python-3.11%20%7C%203.12-blue)](https://www.python.org/downloads/) 
 [![Orange Data Mining](https://img.shields.io/badge/Orange-Data%20Mining-green)](https://orangedatamining.com/) 
-[![CI](https://github.com/afiqandico13/optimasi-manajemen-itb-stkom-bali/actions/workflows/ci.yml/badge.svg)](https://github.com/afiqandico13/optimasi-manajemen-itb-stkom-bali/actions/workflows/ci.yml) 
+[![CI](https://github.com/afuckingco/optimasi-manajemen-itb-stkom-bali/actions/workflows/ci.yml/badge.svg)](https://github.com/afuckingco/optimasi-manajemen-itb-stkom-bali/actions/workflows/ci.yml) 
 
 ---
 
@@ -88,7 +88,7 @@ optimasi-manajemen-itb-stkom-bali/
 
 ### 2️⃣ Clone Repository
 ```bash
-git clone https://github.com/afiqandico13/optimasi-manajemen-itb-stkom-bali.git
+git clone https://github.com/afuckingco/optimasi-manajemen-itb-stkom-bali.git
 cd optimasi-manajemen-itb-stkom-bali
 ```
 
@@ -221,9 +221,9 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE). Anda bebas menggunakan,
 ## 📬 Kontak
 
 - **Nama**: Afiq Andico Pangimpian  
-- **Email**: afiqandico13@gmail.com  
-- **LinkedIn**: [linkedin.com/in/afiqandico13](https://www.linkedin.com/in/afiqandico13)  
-- **GitHub**: [github.com/afiqandico13](https://github.com/afiqandico13)
+- **Email**: afuckingco@gmail.com  
+- **LinkedIn**: [linkedin.com/in/afuckingco](https://www.linkedin.com/in/afuckingco)  
+- **GitHub**: [github.com/afuckingco](https://github.com/afuckingco)
 
 Jika Anda memiliki pertanyaan mengenai metodologi, hasil, atau cara menggunakan repository ini, jangan ragu untuk menghubungi saya melalui salah satu saluran di atas.
 
