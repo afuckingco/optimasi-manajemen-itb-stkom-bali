@@ -221,7 +221,7 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE). Anda bebas menggunakan,
 ## 📬 Kontak
 
 - **Nama**: Afiq Andico Pangimpian  
-- **Email**: afuckingco@gmail.com  
+- **Email**: afiqandico13@gmail.com  
 - **LinkedIn**: [linkedin.com/in/afuckingco](https://www.linkedin.com/in/afuckingco)  
 - **GitHub**: [github.com/afuckingco](https://github.com/afuckingco)
 

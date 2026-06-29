@@ -183,7 +183,7 @@ Gambar-gambar berikut dapat Anda hasilkan dengan menjalankan `scripts/visualize.
 
 ## 🙋‍♂️ Hubungi Saya
 
-- **Email**: afuckingco@gmail.com  
+- **Email**: afiqandico13@gmail.com  
 - **LinkedIn**: [linkedin.com/in/afuckingco](https://www.linkedin.com/in/afuckingco)  
 - **GitHub**: [github.com/afuckingco](https://github.com/afuckingco)  
 - **Portofolio**: [https://afuckingco.github.io](https://afuckingco.github.io) (opsional)
