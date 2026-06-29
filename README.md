@@ -2,7 +2,6 @@
 *Portofolio Proyek Akhir S1 Sistem Informasi* 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Afiq%20Andico-blue)](https://www.linkedin.com/in/afuckingco) 
 [![GitHub Stars](https://img.shields.io/github/afuckingco/optimasi-manajemen-itb-stkom-bali?style=social)](https://github.com/afuckingco/optimasi-manajemen-itb-stkom-bali/stargazers) 
 [![GitHub Forks](https://img.shields.io/github/afuckingco/optimasi-manajemen-itb-stkom-bali?style=social)](https://github.com/afuckingco/optimasi-manajemen-itb-stkom-bali/network/members) 
 [![GitHub Issues](https://img.shields.io/github/afuckingco/optimasi-manajemen-itb-stkom-bali)](https://github.com/afuckingco/optimasi-manajemen-itb-stkom-bali/issues) 
@@ -220,9 +219,8 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE). Anda bebas menggunakan,
 
 ## 📬 Kontak
 
-- **Nama**: Afiq Andico Pangimpian  
+- **Nama**: afuckingco 
 - **Email**: afiqandico13@gmail.com  
-- **LinkedIn**: [linkedin.com/in/afuckingco](https://www.linkedin.com/in/afuckingco)  
 - **GitHub**: [github.com/afuckingco](https://github.com/afuckingco)
 
 Jika Anda memiliki pertanyaan mengenai metodologi, hasil, atau cara menggunakan repository ini, jangan ragu untuk menghubungi saya melalui salah satu saluran di atas.
@@ -235,5 +233,5 @@ Terima kasih telah mengeksplorasi pekerjaan ini. Semoga repository ini bermanfaa
 
 --- 
 
-*© 2025 Afiq Andico Pangimpian. Dirilis bajo Lisensi MIT.*  
+*© 2025 afuckingco. Dirilis bajo Lisensi MIT.*  
 *Last updated: 2025-06-29*
